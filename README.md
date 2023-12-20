@@ -17,7 +17,9 @@ Run `npm i react-horizontal-datepicker`
 
 Import:
 
-`import DatePicker from "react-horizontal-datepicker";`
+```javascript
+import DatePicker from "react-horizontal-datepicker";
+```
 
 and simply use the component as:
 
